@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1681846831 source:d:\programare\c++\_labpoo\proiect2\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<vector>
+	<map>
+
